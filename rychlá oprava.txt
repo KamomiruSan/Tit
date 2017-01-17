@@ -1,0 +1,10 @@
+navrácení složek
+plus přidané pojmy:                   
+working copy
+commit
+clean/dirty state
+checkout
+branch
+head
+revert
+staging
